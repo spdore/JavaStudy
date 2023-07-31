@@ -30,7 +30,7 @@ public class Java03_Datatype {
         char c = '%';
 
         // TODO 4. 布尔类型
-        // true, false,标识条件是否成立,成立取true,不成立取false.
+        // true， false，标识条件是否成立，成立取true，不成立取false.
         boolean bln = true;
     }
 }
